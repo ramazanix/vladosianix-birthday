@@ -18,7 +18,7 @@ const Audio = () => {
         controls
         className="player"
       />
-      <div className="lyrics">
+      <div className="lyrics old-standard-tt-bold">
         {sections.map((section, sectionIdx) => (
           <div
             key={sectionIdx}

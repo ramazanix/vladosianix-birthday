@@ -30,7 +30,7 @@ const About = () => {
           </motion.span>
         ))}
       </div>
-      <motion.div className="about-text-container brawler-regular">
+      <motion.div className="about-text-container old-standard-tt-regular">
         <p className="about-text">{firstText}</p>
         <p className="about-text">{secondText}</p>
         <p className="about-text">{thirdText}</p>
