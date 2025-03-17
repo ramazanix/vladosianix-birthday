@@ -6,7 +6,7 @@ const Home = () => {
     <motion.div className="home">
       <h1 className="old-standard-tt-bold">С днём рождения сучечка</h1>
       <motion.img
-        src="/crown.png"
+        src="/crown.webp"
         alt="crown"
         width={250}
         height="auto"
@@ -22,7 +22,7 @@ const Home = () => {
         }}
       />
       <motion.img
-        src="/money.png"
+        src="/money.webp"
         alt="money"
         width={250}
         height="auto"
